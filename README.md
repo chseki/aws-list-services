@@ -30,7 +30,7 @@ other functions.</p>
 ---
 ## What you will need :hammer: 
 
-Assuming that you already have your AWS credentials in /.aws file.
+Assuming that you already have your AWS credentials in /.aws file and **GO >= 1.0** .
 
 > create a **.env** file and set the role arn as env vars,to switch roles properly:
   ```yaml  
